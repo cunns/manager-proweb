@@ -1,2 +1,2 @@
 # manager-proweb
-Lien manager.proweb.ma
+Lien manager.proweb.ma/
